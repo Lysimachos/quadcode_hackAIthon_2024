@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+tavily-python
+streamlit
+langchain-community
+yfinance
+langchain-experimental
+tabulate
